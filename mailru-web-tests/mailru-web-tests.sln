@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto-web-tests", "mailru-web-tests\auto-web-tests.csproj", "{75891C1C-E152-4487-BADD-32D2E2061DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75891C1C-E152-4487-BADD-32D2E2061DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75891C1C-E152-4487-BADD-32D2E2061DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75891C1C-E152-4487-BADD-32D2E2061DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75891C1C-E152-4487-BADD-32D2E2061DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845D0645-E23A-4A65-8E00-35DE51D46985}
+	EndGlobalSection
+EndGlobal
